@@ -24,7 +24,7 @@ CLI math training program with two modes: practice and test
 
 ## 🛠️ Skills
 
-- HTML, CSS (incl. responsive layouts)
+- HTML, CSS, Javascript
 - Python (file I/O, logic, CLI apps)
 - Git & GitHub (repos, commits, pages)
 - Visual Studio Code, Terminal, macOS
