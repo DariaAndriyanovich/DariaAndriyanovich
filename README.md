@@ -19,6 +19,7 @@ Reads weights from file, calculates BMI, classifies values
 
 🔹 [Final Python Project](https://github.com/DariaAndriyanovich/python-project)  
 CLI math training program with two modes: practice and test
+
 🔹 [TaksTom](https://takstom.com)  
 TaksTom is a modern and mobile-friendly website for booking transfers in Tallinn and across Estonia.
 
